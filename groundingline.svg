@@ -16,9 +16,42 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="groundingline.svg">
+   sodipodi:docname="groundingline.svg"
+   inkscape:export-filename="groundingline.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14850"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14852"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14582"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14584"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -858,14 +891,9 @@
        d="M 144.9992,467.68071 975.14262,690.11698 966.55361,722.1716 145.0003,502.03705"
        id="path10264"
        inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 359.89235,525.17388 975.0034,689.6001 966.41438,721.65472 351.30334,557.22851 Z"
-       id="path4230"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
     <g
-       id="g14298">
+       id="g14298"
+       transform="translate(-100,-28)">
       <g
          style="stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="g4248">
@@ -1233,5 +1261,25 @@
          id="tspan14566"
          x="440"
          y="576.36218">θ</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path14580"
+       d="m 243.94974,568.47654 97.71104,26.18156"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker14582);marker-end:url(#marker14850)" />
+    <text
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+       sodipodi:linespacing="125%"
+       id="text15664"
+       y="510.57928"
+       x="422.1897"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="510.57928"
+         x="422.1897"
+         id="tspan15666"
+         sodipodi:role="line">d<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan15668">s</tspan></tspan></text>
   </g>
 </svg>
